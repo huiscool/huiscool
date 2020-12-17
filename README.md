@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=huiscool&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huiscool&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=huiscool&show_icons=true&count_private=true)
 <!--
 **huiscool/huiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
